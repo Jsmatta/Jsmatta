@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jsmatta
 - 👀 I’m interested in robotics and machine learning
-- 🌱 I’m currently a Second year computer Engineering Student
+- 🌱 I’m currently a third year computer Engineering Student
 - 📫 How to reach me email
 - 😄 Pronouns: he/him
 
