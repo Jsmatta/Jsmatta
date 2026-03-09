@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Jsmatta
-- 👀 I’m interested in robotics, machine learning and web development
-- 🌱 I’m currently a third year computer Engineering Student
-- 📫 How to reach me :[Linkedin](https://www.linkedin.com/in/jaiveer-matta-4474a0275/)
-- 😄 Pronouns: he/him
+# 👋 Hey there! I'm Jaiveer Matta  
 
-<!---
-Jsmatta/Jsmatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Computer Engineering Student** | 🤖 **Robotics & ML Enthusiast** | 💻 **Web Developer**
+
+---
+
+### 👨‍💻 About Me
+- 🧠 Currently studying **Computer Engineering (Year 3)** at the University of New Brunswick  
+- 🤖 Passionate about **robotics, machine learning, and intelligent system design**  
+- 🌐 Enjoys building **full‑stack web projects** and experimenting with **automation**
+
+---
+
+### 🧰 Tech Stack
+**Languages:** Python · JavaScript/TypeScript · VHDL · C/C++  
+**Frameworks:** React · Next.js · Astro · Tailwind CSS  
+**Tools:** Git · VS Code · Quartus · MATLAB · Linux
+
+---
+
+### 📫 Connect with Me
+[  
+[
+
+---
+
+⚡ *“Always curious, always building.”*
