@@ -1,104 +1,85 @@
-<!-- Profile README inspired by Marie-Lynne's style -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Hey there! 👋</h1>
-</div>
 
-<img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/stats-dashboard.gif" width="65" align="middle"> **GitHub Stats**
+# Hey there! I'm `Jsmatta` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<div align="center">
-  <a href="https://github.com/Jsmatta">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=Jsmatta&theme=nord&border_radius=0&card_width=190&ring_color=88C0D0&include_all_commits=true&rank_icon_percentile=show_reviews"/>
-  </a>
-  <a href="https://github.com/Jsmatta">
-    <img height="250" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsmatta&theme=nord&langs_count=8&layout=donut-vertical&border_radius=0"/>
-  </a>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Embedded+Systems+%7C+Robotics+%7C+Web+Development;ESP32+%7C+VHDL+%7C+Signal+Processing;Always+building+something+cool+⚡" />
 
-<!-- Activity Graph (optional, if you want) -->
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Jsmatta&border_radius=0&custom_title=Activity%20Graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://visitorbadge.io/status?page=https://github.com/Jsmatta">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A//github.com/Jsmatta&label=visitors&labelColor=%23232d34%40&countColor=%2380a0c0&style=flat-square"/>
-  </a>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="65" align="middle"> **My Toolbox**
+# 👨‍💻 About Me
 
-<details>
-<summary><strong>Languages & Libraries</strong> <sub>click to expand!</sub></summary>
+🎓 **3rd Year Computer Engineering Student**
+📍 University of Newfoundland
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+I enjoy building systems where **hardware meets software**.
 
-- **General:** Python, C++, JavaScript, Dart, TypeScript, VHDL
-- **Web:** HTML5, CSS3, React, Next.js, Astro, Tailwind CSS
-- **Tools:** Git, VS Code, Quartus (FPGA), MATLAB (Signal Processing)
+### 🔎 Interests
 
-</details>
+🤖 Robotics
+🔌 Embedded Systems
+🌐 Web Development
+⚡ Signal Processing
 
-<details>
-<summary><strong>Robotics & Embedded</strong> <sub>click to expand!</sub></summary>
+### 🧠 Currently Working With
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-- Microcontrollers (Arduino, etc.), LEGO Robotics, Automation
-- Digital Design, Signal Processing, Probability Theory
-
-</details>
-
-<details>
-<summary><strong>Development Tools</strong> <sub>click to expand!</sub></summary>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-- **IDEs:** VS Code
-- **Version Control:** Git/GitHub
-- **Frameworks:** React, Next.js, Flutter (Dart)
-
-</details>
+* ESP32 development (including **low-level / assembly**)
+* **VHDL & Digital Logic Design**
+* **Signal Processing**
+* **React / Next.js projects**
 
 ---
 
-<img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="65" align="middle"> **Meet the Maker**
+# 🚀 Tech Stack
 
-<div align="center" style="font-size:16px">
-I'm **Jaiveer Matta**, a 3rd-year Computer Engineering student passionate about robotics, machine learning, and web development. I love building intelligent systems that blend hardware and software — from LEGO robots to full-stack apps.
-</div>
-
-- **Student Innovator:** Leading STEM projects and co-op work terms in engineering design.
-- **Robotics Enthusiast:** Coding autonomous bots and experimenting with VHDL for digital circuits.
-- **Web Developer:** Creating responsive apps with React, Next.js, and modern stacks.
-- **Lifelong Learner:** Diving into signal processing, probability, and financial engineering on the side.
-- **Team Player:** Thrives in group projects with iterative design and version control.
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Fun Facts**
-- Preferred theme: Dark mode all the way (like Nord!).
-- Currently jamming to coding playlists while debugging VHDL.
-
----
-
-### 🌐 **Connect With Me**
 <div align="center">
-  <a href="https://www.linkedin.com/in/jaiveer-matta-4474a0275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Add email or others: -->
-  <!-- <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a> -->
-</div>
 
-Always up for collaborating on robotics projects, web apps, or engineering chats!
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,dart&perline=5" />
+
+### 🧰 Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,git,vscode&perline=4" />
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48"/>
+
+### 🔌 Hardware / Embedded
+
+<img src="https://skillicons.dev/icons?i=arduino&perline=3" />
+
+**ESP32 • VHDL • Embedded C • Assembly • FPGA • DE1-SOC**
+
+</div>
 
 ---
 
-<p align="center">
-  <sub><em>⚡ Engineered with curiosity. Built for the future.</em></sub>
-</p>
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Jsmatta&theme=radical&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jsmatta&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaiveer%20Matta-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jaiveer-matta-4474a0275/)
+
+</div>
