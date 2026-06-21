@@ -11,7 +11,6 @@
 # 👨‍💻 About Me
 
 🎓 **3rd Year Computer Engineering Student**
-📍 University of Newfoundland
 
 I enjoy building systems where **hardware meets software**.
 
